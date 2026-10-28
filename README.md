@@ -25,9 +25,9 @@ When searching for a scalable **social media link builder** or a **link tree clo
 
 Experience the platform from both the user and admin perspectives:
 
-*   **Live Demo:** [Demo Link Here]
-*   **Purchase Script:** [Marketplace / Store Link Here]
-*   **Full Documentation:** [Documentation Link Here]
+*   **Live Demo:** https://mesadesignlimited.com
+*   **Purchase Script:** https://bibiolink.mesadesignlimited.com
+*   **Full Documentation:** https://bibiolink.mesadesignlimited.com/docs/
 
 ## 🛠️ Technical Requirements
 
